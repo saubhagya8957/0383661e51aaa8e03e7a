@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1637053037287" clover="3.2.0">
+  <project timestamp="1637053037287" name="All files">
+    <metrics statements="59" coveredstatements="41" conditionals="8" coveredconditionals="4" methods="28" coveredmethods="22" elements="95" coveredelements="67" complexity="0" loc="59" ncloc="59" packages="4" files="8" classes="8"/>
+    <package name="AsteroidDashboard">
+      <metrics statements="35" coveredstatements="21" conditionals="8" coveredconditionals="4" methods="12" coveredmethods="10"/>
+      <file name="AsteroidDashboard.tsx" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDashboard/AsteroidDashboard.tsx">
+        <metrics statements="35" coveredstatements="21" conditionals="8" coveredconditionals="4" methods="12" coveredmethods="10"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="2" type="stmt"/>
+        <line num="87" count="4" type="stmt"/>
+        <line num="88" count="4" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="102" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="105" count="1" type="stmt"/>
+      </file>
+      <file name="AsteroidDashboardStyle.ts" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDashboard/AsteroidDashboardStyle.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="AsteroidDataList">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="AsteroidDataList.tsx" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDataList/AsteroidDataList.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+      <file name="AsteroidDataListStyle.ts" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDataList/AsteroidDataListStyle.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="AsteroidDetailScreen">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="AsteroidDetailScreen.tsx" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDetailScreen/AsteroidDetailScreen.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="AsteroidDetailScreenStyle.ts" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidDetailScreen/AsteroidDetailScreenStyle.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="AsteroidListScreen">
+      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="4"/>
+      <file name="AsteroidListScreen.tsx" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidListScreen/AsteroidListScreen.tsx">
+        <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="4"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+      </file>
+      <file name="AsteroidListScreenStyle.ts" path="/Users/apple/Documents/TestAppAsteroid/AsteroidTestApp/app/screens/AsteroidListScreen/AsteroidListScreenStyle.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>

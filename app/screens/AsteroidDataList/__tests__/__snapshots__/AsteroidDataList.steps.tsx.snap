@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Asteroid Specific Data Screen User navigates Asteroid Specific Data 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ab8e00",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "backgroundColor": "#628ead",
+        "borderColor": "#000000",
+        "paddingRight": 12,
+        "paddingVertical": 10,
+        "width": 350,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      Name: 
+      Asteroid
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      NASA JPL URL: 
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      IS POTENTIALLY HAZARDOUS ASTEROID: 
+    </Text>
+  </View>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Asteroid Specific Data Screen User navigates Asteroid Specific Data 2`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ab8e00",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "backgroundColor": "#628ead",
+        "borderColor": "#000000",
+        "paddingRight": 12,
+        "paddingVertical": 10,
+        "width": 350,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      Name: 
+      Asteroid
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      NASA JPL URL: 
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginLeft": 20,
+          "marginVertical": 10,
+          "width": 300,
+        }
+      }
+    >
+      IS POTENTIALLY HAZARDOUS ASTEROID: 
+    </Text>
+  </View>
+</ForwardRef(SafeAreaView)>
+`;
